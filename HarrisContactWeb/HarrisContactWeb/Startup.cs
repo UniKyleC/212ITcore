@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-
+//Added calling of libraries - to make sure the program calls the needed libraries
 namespace HarrisContactWeb
 {
     public class Startup

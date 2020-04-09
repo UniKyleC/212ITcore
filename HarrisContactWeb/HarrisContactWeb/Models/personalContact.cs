@@ -7,6 +7,7 @@ namespace HarrisContactWeb.Models
 {
     public class personalContact
     {
+        //setting the variables you want in the database, and making sure they're 'get' and 'set' appropriately
         public int personalContactID { get; set; }
         public string personalContactFirstName { get; set; }
         public string personalContactLastName { get; set; }

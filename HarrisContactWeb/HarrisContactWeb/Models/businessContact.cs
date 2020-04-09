@@ -7,6 +7,7 @@ namespace HarrisContactWeb.Models
 {
     public class businessContact
     {
+        //setting the variables you want in the database, and making sure they're 'get' and 'set' appropriately
         public int businessContactID { get; set; }
         public string businessContactFirstName { get; set; }
         public string businessContactLastName { get; set; }
