@@ -9,7 +9,9 @@ namespace HarrisContactWeb.Data
 {
     public class HarrisDbContext : DbContext
     {
-        public HarrisDbContext(DbContextOptions<HarrisDbContext> options) : base(options) {}
+        public HarrisDbContext(DbContextOptions<HarrisDbContext> options) : base(options) 
+        {
+        }
 
         public DbSet<personalContact> personalContacts { get; set; }
         public DbSet<businessContact> businessContacts { get; set; }

@@ -159,3 +159,13 @@ C:\Users\Administrator\Documents\GitHub\212ITcore\HarrisContactWeb\HarrisContact
 C:\Users\Administrator\Documents\GitHub\212ITcore\HarrisContactWeb\HarrisContactWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Administrator\Documents\GitHub\212ITcore\HarrisContactWeb\HarrisContactWeb\obj\Debug\netcoreapp3.1\HarrisContactWeb.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Documents\GitHub\212ITcore\HarrisContactWeb\HarrisContactWeb\obj\Debug\netcoreapp3.1\HarrisContactWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Documents\GitHub\212ITcore\HarrisContactWeb\HarrisContactWeb\obj\Debug\netcoreapp3.1\Razor\Views\businessContacts\Create.cshtml.g.cs
+C:\Users\Administrator\Documents\GitHub\212ITcore\HarrisContactWeb\HarrisContactWeb\obj\Debug\netcoreapp3.1\Razor\Views\businessContacts\Delete.cshtml.g.cs
+C:\Users\Administrator\Documents\GitHub\212ITcore\HarrisContactWeb\HarrisContactWeb\obj\Debug\netcoreapp3.1\Razor\Views\businessContacts\Details.cshtml.g.cs
+C:\Users\Administrator\Documents\GitHub\212ITcore\HarrisContactWeb\HarrisContactWeb\obj\Debug\netcoreapp3.1\Razor\Views\businessContacts\Edit.cshtml.g.cs
+C:\Users\Administrator\Documents\GitHub\212ITcore\HarrisContactWeb\HarrisContactWeb\obj\Debug\netcoreapp3.1\Razor\Views\businessContacts\Index.cshtml.g.cs
+C:\Users\Administrator\Documents\GitHub\212ITcore\HarrisContactWeb\HarrisContactWeb\obj\Debug\netcoreapp3.1\Razor\Views\personalContacts\Create.cshtml.g.cs
+C:\Users\Administrator\Documents\GitHub\212ITcore\HarrisContactWeb\HarrisContactWeb\obj\Debug\netcoreapp3.1\Razor\Views\personalContacts\Delete.cshtml.g.cs
+C:\Users\Administrator\Documents\GitHub\212ITcore\HarrisContactWeb\HarrisContactWeb\obj\Debug\netcoreapp3.1\Razor\Views\personalContacts\Details.cshtml.g.cs
+C:\Users\Administrator\Documents\GitHub\212ITcore\HarrisContactWeb\HarrisContactWeb\obj\Debug\netcoreapp3.1\Razor\Views\personalContacts\Edit.cshtml.g.cs
+C:\Users\Administrator\Documents\GitHub\212ITcore\HarrisContactWeb\HarrisContactWeb\obj\Debug\netcoreapp3.1\Razor\Views\personalContacts\Index.cshtml.g.cs
